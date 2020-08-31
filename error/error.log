@@ -1,0 +1,105 @@
+2019/12/16 00:29:58 [error] 33301#33301: *178992 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 73.112.3.20, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 00:46:26 [error] 33301#33301: *192469 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 139.162.116.133, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 00:56:29 [error] 33301#33301: *200084 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 66.249.64.246, server: aquapems.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "aquapems.com"
+2019/12/16 01:16:45 [error] 33301#33301: *215607 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 177.87.217.92, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166:80"
+2019/12/16 01:58:24 [error] 33301#33301: *248545 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 209.97.190.223, server: aquapems.com, request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:9043"
+2019/12/16 02:04:04 [error] 33301#33301: *252894 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 182.151.23.57, server: aquapems.com, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 02:04:06 [error] 33301#33301: *252918 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 182.151.23.57, server: aquapems.com, request: "GET /index.php?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 02:04:08 [error] 33301#33301: *252941 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 182.151.23.57, server: aquapems.com, request: "POST /index.php?s=captcha HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 02:04:08 [error] 33301#33301: *252949 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 182.151.23.57, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166:80"
+2019/12/16 02:47:10 [error] 33301#33301: *286643 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 217.61.105.197, server: aquapems.com, request: "GET /user/register/ HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 03:07:46 [error] 2449#2449: *304341 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 122.228.19.80, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.163:443"
+2019/12/16 03:53:53 [error] 2449#2449: *342375 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 88.198.118.54, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "aquapems.com"
+2019/12/16 04:37:48 [error] 2449#2449: *376498 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 178.73.215.171, server: aquapems.com, request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:9043"
+2019/12/16 04:39:49 [error] 2449#2449: *377958 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 54.38.207.237, server: aquapems.com, request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:9043"
+2019/12/16 04:49:49 [error] 2449#2449: *385251 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 159.203.201.61, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.163"
+2019/12/16 05:04:19 [error] 2449#2449: *396549 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 137.226.113.26, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "www.fyinfodaily.com"
+2019/12/16 05:06:18 [error] 2449#2449: *398524 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 51.254.59.113, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 05:56:16 [error] 2449#2449: *435973 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 5.75.16.141, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166:80"
+2019/12/16 06:35:31 [error] 2449#2449: *464448 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 139.162.119.197, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.166"
+2019/12/16 07:05:44 [error] 2449#2449: *486262 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 66.249.73.130, server: aquapems.com, request: "GET /ads.txt HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "fyinfodaily.com"
+2019/12/16 07:22:15 [error] 2449#2449: *498726 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 50.16.132.243, server: aquapems.com, request: "GET /the-benefits-of-drinking-warm-lemon-water-in-the-morning/ HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "lovewideopen.com"
+2019/12/16 07:25:42 [error] 2449#2449: *501303 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 66.249.65.195, server: aquapems.com, request: "GET /ads.txt HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "article.techsoftco.com"
+2019/12/16 07:44:10 [error] 2449#2449: *516315 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 66.249.64.191, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "www.aquapems.com"
+2019/12/16 07:47:55 [error] 2449#2449: *519657 access forbidden by rule, client: 78.142.19.97, server: aquapems.com, request: "GET /.env HTTP/1.1", host: "23.236.251.166"
+2019/12/16 07:56:32 [error] 2449#2449: *527151 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 137.226.113.27, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "www.aquapems.com"
+2019/12/16 08:27:30 [error] 2449#2449: *555007 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 139.162.116.133, server: aquapems.com, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "23.236.251.163"
+2019/12/16 08:35:46 [error] 2449#2449: *561470 FastCGI sent in stderr: "PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/index.php on line 23
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 10
+PHP message: PHP Notice:  Undefined index: ACCOUNT_TYPE in /var/www/clients/client4/web34/web/theme/menu.php on line 47
+PHP message: PHP Notice:  Undefined index: ACCOUNT_NAME in /var/www/clients/client4/web34/web/theme/nav.php on line 27" while reading response header from upstream, client: 175.142.184.107, server: aquapems.com, request: "POST /editBlackAndWhiteList HTTP/1.1", upstream: "fastcgi://127.0.0.1:9043", host: "41.39.249.26"
